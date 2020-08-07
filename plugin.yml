@@ -1,0 +1,6 @@
+name: UHCPowerupMenu
+main: me.Abhirup.GUIInventory.Main
+version: 1.0
+api-version: 1.16
+commands:
+  menu:
